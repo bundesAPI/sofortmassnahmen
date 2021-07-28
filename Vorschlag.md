@@ -1,5 +1,5 @@
 # 5 Punkte Plan „Sofortmaßnahmen Zweites Open Data Gesetz“
-Im Rahmen der Open Government Umsetzungsstrategie des Bundes wurde beschlossen, dass bis 2024 alle Datensätze und Verwaltungsverfahren der Bundesverwaltung per Programmierschnittstelle (API) zugänglich gemacht werden. Dabei setzen wir auf eine kombinierte Strategie, in der wir einerseits bestehende Schnittstellen dokumentieren und andrerseits alle neuen Projekte in einem offenen Entwicklungsverfahren umsetzen.
+Im Rahmen der Open Government Umsetzungsstrategie des Bundes wurde beschlossen, dass bis 2024 alle Datensätze und Verwaltungsverfahren der Bundesverwaltung per Programmierschnittstelle (API) zugänglich gemacht werden. Dabei setzen wir auf eine kombinierte Strategie, in der wir einerseits bestehende Schnittstellen dokumentieren und andererseits alle neuen Projekte in einem offenen Entwicklungsverfahren umsetzen.
 
 **Um diesen Veränderungsprozess transparent zu machen, soll ein 5-Punkte-Plan beschlossen werden:**
 
