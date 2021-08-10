@@ -12,3 +12,9 @@ Bitte lege ein Issue im möglichst passenden Projekt an. Wir schauen dann, was w
 
 ## Ist das eine Seite der Bundesrepublik Deutschland?
 Noch nicht 😉.
+
+## Soll/darf man auch "öffentliche" APIs dokumentieren, die nur nach Registrierung (ggf. erst nach manueller Freischaltung) verfügbar sind?
+Ja, wir würden gerne so viel wie möglich dokumentieren.
+
+## Darf ich hier auch die API eines Bundeslandes oder einer Kommune dokumentieren?
+Ja bitte gibt ja keinen anderen Ort dafür. (Vielleicht müssen wir das zukünftig anders aufteilen…)
