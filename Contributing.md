@@ -2,7 +2,7 @@
 Cool das Du hier bist 🎉. Hier einige Hinweise:
 
 ## Ich möchte eine weitere API des Bundes dokumentieren
-Bitte lege in diesem Repository ein Issue an, damit wir das diskutieren können. Dann werden wir Dir ein Repo in der Organisation und entsprechende Domains aufsetzen. Du kannst uns auch anonym (z.B. via kontakt@bund.dev) Dokumentation zukommen lassen, die wir dann veröffentlichen.
+Bitte lege im Sofortmassnahmen Repository ein Issue an, damit wir das diskutieren können. Dann werden wir Dir ein Repo in der Organisation und entsprechende Domains aufsetzen. Du kannst uns auch anonym (z.B. via kontakt@bund.dev) Dokumentation zukommen lassen, die wir dann veröffentlichen.
 
 ## Ich möchte an einer bestehenden Doku weiterarbeiten
 Super, gerne, einfach PR/Issue aufmachen.
