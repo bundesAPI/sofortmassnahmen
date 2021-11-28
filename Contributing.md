@@ -17,4 +17,4 @@ Noch nicht 😉.
 Ja, wir würden gerne so viel wie möglich dokumentieren.
 
 ## Darf ich hier auch die API eines Bundeslandes oder einer Kommune dokumentieren?
-Ja bitte gibt ja keinen anderen Ort dafür. (Vielleicht müssen wir das zukünftig anders aufteilen…)
+Ja, bitte, es gibt ja keinen anderen Ort dafür. (Vielleicht müssen wir das zukünftig anders aufteilen…)
